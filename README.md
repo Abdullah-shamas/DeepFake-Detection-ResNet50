@@ -37,6 +37,5 @@ Based on benchmark research, deep fake image detection often focuses heavily on 
 - **Visualization:** Matplotlib, Seaborn
 - **Environment:** Google Colab / Jupyter Notebook
 
-## 👥 Project Contributors
+## 👥 Project Contributor
 - **Abdullah Shamas** 
-- 
